@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "د عمرې فضائل",
+    "duration": "05:20",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "description": "په دې درس کې د عمرې د فضائلو په اړه معلومات ورکول کېږي."
+  },
+  {
+    "id": 2,
+    "title": "د عمرې شرطونه",
+    "duration": "08:45",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "description": "د عمرې لپاره اړین شرطونه او مقدمات."
+  },
+  {
+    "id": 3,
+    "title": "د احرام طريقه",
+    "duration": "12:10",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "description": "د احرام د تړلو مکمل او صحیح طریقه."
+  },
+  {
+    "id": 4,
+    "title": "د طواف احکام",
+    "duration": "15:30",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "description": "د کعبې شریفې د طواف کولو طریقه او دعاګانې."
+  },
+  {
+    "id": 5,
+    "title": "د سعې طريقه",
+    "duration": "10:15",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "description": "د صفا او مروه ترمنځ د سعې کولو احکام."
+  }
+]
